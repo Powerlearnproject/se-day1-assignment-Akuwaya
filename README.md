@@ -24,6 +24,21 @@ In summary, software engineering is crucial in the technology industry as it ens
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+Here are three key milestones in the evolution of software engineering:
+
+_Milestone 1: The Waterfall Model (1970s)_
+
+The Waterfall Model, introduced by Winston Royce in 1970, was the first systematic approach to software development. It emphasized a linear, phase-by-phase approach, with distinct stages for requirements gathering, design, implementation, testing, and maintenance. Although it had limitations, the Waterfall Model laid the foundation for subsequent software engineering methodologies.
+
+_Milestone 2: Agile Development (1990s-2000s)_
+
+Agile development emerged in the 1990s as a response to the limitations of traditional methodologies like Waterfall. The Agile Manifesto (2001) emphasized flexibility, collaboration, and rapid delivery. Agile introduced iterative development, continuous improvement, and customer involvement, revolutionizing software development with its adaptive and responsive approach.
+
+_Milestone 3: DevOps and Continuous Integration/Continuous Deployment (CI/CD) (2000s-present)_
+
+DevOps and CI/CD have transformed software engineering by integrating development and operations teams, automating testing and deployment, and enabling rapid release cycles. This milestone emphasizes collaboration, automation, and continuous improvement, ensuring faster time-to-market, higher quality, and increased efficiency. DevOps and CI/CD have become essential practices in modern software engineering.
+
+These milestones have shaped the software engineering landscape, influencing methodologies, practices, and tools that continue to evolve today.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
