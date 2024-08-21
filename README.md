@@ -1,4 +1,4 @@
-# SE_Day1
+no# SE_Day1
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
@@ -126,6 +126,55 @@ Remember, these methodologies can be combined or tailored to suit specific proje
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+Here are the roles and responsibilities of a Software Developer, Quality Assurance Engineer, and Project Manager in a software engineering team:
+
+*Software Developer:*
+
+Roles:
+
+- Design, develop, and test software applications
+- Write clean, efficient, and well-documented code
+- Collaborate with cross-functional teams to identify and prioritize project requirements
+
+Responsibilities:
+
+- Develop high-quality software features and bug fixes
+- Participate in code reviews and contribute to the improvement of the codebase
+- Troubleshoot and debug software issues
+- Stay up-to-date with industry trends and emerging technologies
+
+*Quality Assurance Engineer:*
+
+Roles:
+
+- Ensure software quality by testing and validating applications
+- Identify and report defects, and collaborate with developers to resolve issues
+- Develop and maintain test plans, cases, and scripts
+
+Responsibilities:
+
+- Conduct manual and automated testing of software applications
+- Create and execute test cases, test scripts, and test data
+- Identify and report defects, and track them to resolution
+- Collaborate with developers to improve software quality and reliability
+
+*Project Manager:*
+
+Roles:
+
+- Lead and manage software development projects from initiation to delivery
+- Coordinate cross-functional teams, stakeholders, and resources
+- Plan, organize, and control project scope, schedule, budget, and quality
+
+Responsibilities:
+
+- Define project scope, goals, timelines, budget, and resources
+- Develop and manage project plans, schedules, and resource allocation
+- Coordinate team activities, progress tracking, and issue resolution
+- Communicate project status, risks, and changes to stakeholders
+- Ensure project deliverables meet quality, scope, and timeline requirements
+
+These roles collaborate to ensure successful software development projects. The Software Developer focuses on writing high-quality code, the Quality Assurance Engineer ensures software quality through testing, and the Project Manager leads and coordinates the project to meet its objectives.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
