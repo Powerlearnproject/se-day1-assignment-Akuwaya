@@ -24,6 +24,7 @@ In summary, software engineering is crucial in the technology industry as it ens
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 Here are three key milestones in the evolution of software engineering:
 
 _Milestone 1: The Waterfall Model (1970s)_
@@ -43,6 +44,33 @@ These milestones have shaped the software engineering landscape, influencing met
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+ Here are the phases of the Software Development Life Cycle (SDLC):
+
+1. *Planning*: Define project scope, goals, timelines, budget, and resources.
+
+2. *Requirements Gathering*: Collect and document user requirements through interviews, surveys, and observations.
+
+3. *Analysis*: Examine and validate requirements to ensure clarity, consistency, and feasibility.
+
+4. *Design*: Create detailed design documents, including architecture, components, and interfaces.
+
+5. *Implementation* (Coding): Write the software code based on the design specifications.
+
+6. *Testing*: Verify the software meets requirements through various testing techniques (unit, integration, system, acceptance).
+
+7. *Deployment*: Release the software to production, including installation, configuration, and training.
+
+8. *Maintenance*: Update, modify, and fix the software to ensure continued quality and relevance.
+
+9. *Evaluation*: Assess the software's performance, gather feedback, and identify areas for improvement.
+
+Additionally, some SDLC models include:
+
+- *Prototyping*: Create a preliminary version to test and refine requirements.
+- *Iteration*: Repeat phases (e.g., design, implementation, testing) in a cyclical manner.
+- *Release Management*: Plan and coordinate software releases.
+
+These phases may vary depending on the SDLC model (e.g., Waterfall, Agile, V-Model) and project specifics.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
