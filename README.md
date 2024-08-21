@@ -1,4 +1,4 @@
-no# SE_Day1
+dono# SE_Day1
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
@@ -282,3 +282,28 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Here's an example:
+
+*Vague prompt:*
+"Write something about dogs."
+
+*Improved prompt:*
+"Write a 2-paragraph informative article about the benefits of adopting senior dogs (ages 7+) from shelters, including their typical temperament and potential health advantages."
+
+Why the improved prompt is more effective:
+
+1. *Specific topic*: The improved prompt clearly defines the topic, focusing on senior dogs and their adoption benefits.
+2. *Clear format*: The prompt specifies the article's length (2 paragraphs) and type (informative).
+3. *Concise language*: The prompt uses direct and concise language, avoiding ambiguity.
+4. *Context*: The prompt provides context about the age range (7+) and source (shelters).
+5. *Specific requirements*: The prompt mentions specific aspects to cover (temperament and health advantages).
+
+The improved prompt is more effective because it:
+
+- Guides the AI model to produce relevant and focused content
+- Reduces the likelihood of off-topic or irrelevant responses
+- Ensures the output meets specific requirements and format expectations
+- Saves time and resources by minimizing the need for revisions or clarifications
+
+By crafting clear, specific, and concise prompts, you can significantly improve the quality and relevance of the AI model's responses.
